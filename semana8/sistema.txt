@@ -1,0 +1,15 @@
+Al ejecutar el comando uname -a y el comando whoami, en la terminal da como resultado lo siguiente
+uname-a :Linux codespaces-4b87c2 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+whoami:codespace
+
+Comando: uname -a
+
+Este comando muestra información completa del sistema operativo, incluyendo el nombre del sistema, versión del kernel, arquitectura del procesador y fecha de compilación.
+
+Comando: whoami
+
+Este comando muestra el nombre del usuario que actualmente está utilizando el sistema.
+
+Importancia:
+
+Conocer la información del sistema es importante para administrar servidores porque permite identificar el entorno de trabajo, verificar compatibilidad de software, realizar diagnósticos, aplicar configuraciones adecuadas y gestionar correctamente los permisos de usuario.
